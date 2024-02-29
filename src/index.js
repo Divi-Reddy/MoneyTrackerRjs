@@ -7,8 +7,8 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <div className='bg-cyan-100'>
-    <App />
+    <div className=' bg-gradient-to-br from-blue-200 via-cyan-200 to-blue-200 font-serif'>
+      <App />
     </div>
   </React.StrictMode>
 );
